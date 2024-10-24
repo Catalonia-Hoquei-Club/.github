@@ -38,8 +38,8 @@ We plan to release public-facing projects in the future, which could include:
 
 ## 🏢 Club Information
 - **Location**: Montjuïc, Barcelona, Spain
-- **Website**: [Catalònia Hoquei Club](https://cataloniahc.com)
-- **Email**: info@cataloniahc.com
+- **Website**: [cataloniahc.com](https://cataloniahc.com)
+- **Email**: cataloniahc.tech@gmail.com
 
 ### 📲 Follow Us
 Stay up-to-date with all the latest news, events, and updates on our social media channels:
